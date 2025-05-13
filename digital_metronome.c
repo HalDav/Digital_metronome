@@ -1,5 +1,5 @@
 /**********************************************************************************************************************************
-* Project:    IMU and GPS position (pitch, roll, yaw) and location estimation SW
+* Project:    Digital metronome
 *
 * Author:     HalDav
 * Platform:   Atmel ATMEGA328P
